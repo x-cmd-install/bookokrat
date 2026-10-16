@@ -48,12 +48,12 @@ Total: **123,159** lines of code across **292** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 4 | 0 | 4 | 3 | 15 |
-| last60d | 2026-08-16 | 1 | 10 | 2 | 5 | 3 | 28 |
-| 90d | 2026-07-17 | 1 | 11 | 3 | 9 | 4 | 32 |
-| last180d | 2026-04-18 | 4 | 25 | 4 | 24 | 11 | 84 |
-| 360d | 2025-10-20 | 19 | 65 | 11 | 88 | 37 | 408 |
-| last720d | 2024-10-25 | 19 | 65 | 11 | 88 | 37 | 703 |
+| 30d | 2026-09-16 | 1 | 4 | 0 | 4 | 3 | 15 |
+| last60d | 2026-08-17 | 1 | 10 | 2 | 5 | 3 | 28 |
+| 90d | 2026-07-18 | 1 | 11 | 3 | 9 | 4 | 32 |
+| last180d | 2026-04-19 | 4 | 25 | 4 | 23 | 10 | 84 |
+| 360d | 2025-10-21 | 19 | 65 | 11 | 88 | 37 | 408 |
+| last720d | 2024-10-26 | 19 | 65 | 11 | 88 | 37 | 703 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for bookokrat lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T09:57:01Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:36:44Z._
