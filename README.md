@@ -38,7 +38,7 @@ Total: **123,174** lines of code across **292** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,281 · **Forks**: 77 · **Open issues**: 130 · **Contributors**: 21
+- **Stars**: 1,285 · **Forks**: 77 · **Open issues**: 130 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **123,174** lines of code across **292** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 3 | 1 | 0 | 8 | 0 |
-| last60d | 2026-09-09 | 2 | 4 | 3 | 4 | 8 | 0 |
-| 90d | 2026-08-10 | 2 | 10 | 3 | 6 | 8 | 0 |
-| last180d | 2026-05-12 | 4 | 18 | 5 | 19 | 15 | 0 |
-| 360d | 2025-11-13 | 20 | 65 | 10 | 87 | 41 | 0 |
-| last720d | 2024-11-18 | 20 | 65 | 12 | 88 | 42 | 706 |
+| 30d | 2026-10-11 | 1 | 1 | 1 | 0 | 7 | 3 |
+| last60d | 2026-09-11 | 2 | 4 | 2 | 4 | 8 | 18 |
+| 90d | 2026-08-12 | 2 | 10 | 3 | 6 | 8 | 32 |
+| last180d | 2026-05-14 | 4 | 16 | 5 | 19 | 15 | 75 |
+| 360d | 2025-11-15 | 20 | 65 | 9 | 87 | 41 | 378 |
+| last720d | 2024-11-20 | 20 | 65 | 12 | 88 | 42 | 706 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for bookokrat lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:05:08Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:55:05Z._
