@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9801648,
       "digest": "sha256:ef58db0044988d2576950ff97944e626f844d50b45c5b4ce668a0bce3b9dce3c",
-      "download_count": 61,
+      "download_count": 62,
       "created_at": "2026-10-17T13:35:21Z",
       "updated_at": "2026-10-17T13:35:22Z",
       "browser_download_url": "https://github.com/bugzmanov/bookokrat/releases/download/v0.3.14/bookokrat-v0.3.14-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10288328,
       "digest": "sha256:9f166acf8eab272ed517cca5225bbcae436b347f17e139a7b3b29bda78466e60",
-      "download_count": 391,
+      "download_count": 397,
       "created_at": "2026-10-17T13:34:22Z",
       "updated_at": "2026-10-17T13:34:23Z",
       "browser_download_url": "https://github.com/bugzmanov/bookokrat/releases/download/v0.3.14/bookokrat-v0.3.14-x86_64-unknown-linux-gnu.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 116,
       "digest": "sha256:b3aa17f2c3313e8eb99aa4573e9a64154edd40730e2c885a4d5d767d18cf9f7a",
-      "download_count": 44,
+      "download_count": 45,
       "created_at": "2026-10-17T13:34:22Z",
       "updated_at": "2026-10-17T13:34:22Z",
       "browser_download_url": "https://github.com/bugzmanov/bookokrat/releases/download/v0.3.14/bookokrat-v0.3.14-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 10614394,
       "digest": "sha256:5b1f18fa754d75f2bfb47a5a83734db1eb07faaf0b4f1725559f67aa5919dbe5",
-      "download_count": 269,
+      "download_count": 270,
       "created_at": "2026-10-17T13:35:59Z",
       "updated_at": "2026-10-17T13:35:59Z",
       "browser_download_url": "https://github.com/bugzmanov/bookokrat/releases/download/v0.3.14/bookokrat-v0.3.14-x86_64-unknown-linux-musl.tar.gz"
